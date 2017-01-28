@@ -49,3 +49,12 @@ p.quote{
 .col-xs-10 {
   float: right;
 }
+
+.subheader-bold ol li{
+  font-weight: bold;
+}
+
+.projects-bold a {
+  font-weight: bold;
+  color: teal;
+}

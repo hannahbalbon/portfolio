@@ -17,7 +17,7 @@ _This webpage is an exercise in basic HTML, CSS, and Bootstrap for Epicodus - In
 
 ## Support and contact details
 
-_{If you run into any issues or have questions, ideas or concerns.  Please contact Hannah Balbon at hannah.balbon@yahoo.com}_
+_If you run into any issues or have questions, ideas or concerns.  Please contact Hannah Balbon at hannah.balbon@yahoo.com}_
 
 ## Technologies Used
 
