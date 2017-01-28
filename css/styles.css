@@ -1,9 +1,27 @@
 body {
     background-color: powderblue;
+    font-family: Trebuchet MS, sans-serif;
+    color: teal;
+}
+
+.hannah {
+  font-size: 25pt;
+  font-weight: bold;
+}
+
+.cristina {
+  font-style: italic;
+  font-size: 24pt;
+}
+
+.balbon {
+  font-size: 26pt;
+  font-weight: bold;
 }
 
 .headshot {
-  width: 150%;
+  width: 25%;
+  float: left;
 }
 
 .trevi {
@@ -18,6 +36,10 @@ p.quote{
 
 .sidebar-padding {
   padding: 8px;
+}
+
+.sidebar-headers {
+  color: teal;
 }
 
 .row {
