@@ -1,7 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
 .headshot {
   width: 150%;
 }
 
 .trevi {
   width: 110%;
+}
+
+.sidebar-padding {
+  padding: 8px;
+}
+
+.row {
+  padding-right: 5px
+}
+
+.col-xs-10 {
+  float: right;
 }
